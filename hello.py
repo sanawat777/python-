@@ -1,4 +1,4 @@
-print("hello world")
+print("hello world" '\n')
 print("loool")
-print("123")
+print("123" '\n')
 print("456")
